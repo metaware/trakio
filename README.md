@@ -7,14 +7,14 @@ trakio is a library for tracking events and sending profile updates to http://tr
 
 ## Installation
 
-  $ gem install trakio
+    $ gem install trakio
 
 ## Getting Started
 
-```Ruby
-require 'trackio'
-tracker = TrakIO::Tracker.new(YOUR_TOKEN)
-```
+    ```Ruby
+    require 'trackio'
+    tracker = TrakIO::Tracker.new(YOUR_TOKEN)
+    ```
 
 ## Contributing
 
