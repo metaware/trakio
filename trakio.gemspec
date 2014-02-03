@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "trakio"
   spec.version       = Trakio::VERSION
   spec.authors       = ["Jasdeep Singh"]
-  spec.email         = ["narang.jasdeep@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
-  spec.license       = "MIT"
+  spec.email         = ["jasdeep@metawarelabs.com"]
+  spec.description   = %q{TrakIO Ruby Client Library}
+  spec.summary       = %q{TrakIO Ruby Client Library}
+  spec.homepage      = "http://metaware.github.io/trakio"
+  spec.license       = "GPL"
 
   spec.files         = `git ls-files`.split($/)
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }

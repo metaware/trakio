@@ -1,4 +1,4 @@
-# Trakio
+# trakio
 
 TODO: Write a gem description
 
