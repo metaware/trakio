@@ -1,5 +1,6 @@
 require "trakio/version"
+require "trakio/tracker"
 
-module Trakio
+module TrakIO
   # Your code goes here...
 end

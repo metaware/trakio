@@ -1,24 +1,17 @@
 # trakio
 
-TODO: Write a gem description
+trakio is a library for tracking events and sending profile updates to http://trak.io from your ruby applications. 
 
 ## Installation
 
-Add this line to your application's Gemfile:
+  $ gem install trakio
 
-    gem 'trakio'
+## Getting Started
 
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install trakio
-
-## Usage
-
-TODO: Write usage instructions here
+```Ruby
+require 'trackio'
+tracker = TrakIO::Tracker.new(YOUR_TOKEN)
+```
 
 ## Contributing
 
