@@ -5,7 +5,7 @@ require 'trakio/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "trakio"
-  spec.version       = Trakio::VERSION
+  spec.version       = TrakIO::VERSION
   spec.authors       = ["Jasdeep Singh"]
   spec.email         = ["jasdeep@metawarelabs.com"]
   spec.description   = %q{TrakIO Ruby Client Library}
