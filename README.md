@@ -11,10 +11,10 @@ trakio is a library for tracking events and sending profile updates to http://tr
 
 ## Getting Started
 
-    ```Ruby
-    require 'trakio'
-    tracker = TrakIO::Tracker.new(YOUR_TOKEN)
-    ```
+```Ruby
+require 'trakio'
+tracker = TrakIO::Tracker.new(YOUR_TOKEN)
+```
 
 ## Contributing
 
