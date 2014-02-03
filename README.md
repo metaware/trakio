@@ -1,5 +1,8 @@
 # trakio
 
+[![Build Status](https://travis-ci.org/metaware/trakio.png?branch=master)](https://travis-ci.org/metaware/trakio)
+[![Code Climate](https://codeclimate.com/github/metaware/trakio.png)](https://codeclimate.com/github/metaware/trakio)
+
 trakio is a library for tracking events and sending profile updates to http://trak.io from your ruby applications. 
 
 ## Installation
