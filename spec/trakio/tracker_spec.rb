@@ -2,8 +2,9 @@ require 'spec_helper'
 
 describe TrakIO::Tracker do
   
+  subject { TrakIO::Tracker }
+  
   describe 'class should be defined' do
-    subject { TrakIO::Tracker }
     it { should be_true }
   end
 
